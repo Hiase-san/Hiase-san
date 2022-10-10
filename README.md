@@ -2,7 +2,6 @@
 - 👀 I’m interested in **Unity game develepment**
 - 🌱 I’m currently learning **How to use Github**
 - 💞️ I’m looking to collaborate on **Beginner friendly programming project to get experience and improve**
-- 📫 How to reach me **Reach me on Discord my tag is Luffy#0945**
 
 <!---
 Hiase-san/Hiase-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
